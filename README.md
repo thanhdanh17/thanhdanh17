@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img src="github-ppic.gif" alt="Banner" width="100%" />
 
 <!--
 **thanhdanh17/thanhdanh17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
