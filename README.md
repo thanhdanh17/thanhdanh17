@@ -1,4 +1,4 @@
-👋 Hi, I'm Thanh Danh  
+## 👋 Hi, I'm Thanh Danh  
 — passionate about building AI & Machine Learning applications for real-world impact.
 
 <img src="github-ppic.gif" alt="Banner" width="100%" />
