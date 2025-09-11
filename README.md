@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Thanh Danh  
+# 👋 Hi there, I'm Bui Dinh Thanh Danh  
 
 ## 🔥 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thanhdanh17&show_icons=true&theme=radical)  
