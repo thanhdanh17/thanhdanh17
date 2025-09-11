@@ -1,8 +1,5 @@
 # Hi there 👋, I'm Thanh Danh  
 
-🌱 Passionate about **AI, Machine Learning, and Data Science**  
-💻 Building projects in **Computer Vision, NLP, and Time Series Forecasting**  
-
 ## 🔥 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thanhdanh17&show_icons=true&theme=radical)
 
