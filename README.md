@@ -10,6 +10,3 @@
 
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=thanhdanh17&theme=radical&column=6)
-
-## 🐍 Contribution Snake
-![GitHub Contribution Snake](https://github.com/thanhdanh17/thanhdanh17/blob/output/github-contribution-grid-snake.svg)  
