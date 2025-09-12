@@ -1,7 +1,7 @@
 # 🙌 Glad to see you here! I'm Thanh Danh 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=9AE6E6&center=true&vCenter=true&width=600&lines=👋+Welcome+to+my+GitHub!👋;I'm+Bui+Dinh+Thanh+Danh;🤖+AI%2FML+Enthusiast+🤖" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=9AE6E6&center=true&vCenter=true&width=600&lines=👋+Welcome+to+my+GitHub!👋;I'm+Bui+Dinh+Thanh+Danh;🤖+AI%2FML+Enthusiast+🤖;💡+AI+Engineer" alt="Typing SVG" />
 </p>
 
 ## 📈 Stats & Support  
