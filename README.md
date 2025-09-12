@@ -34,11 +34,16 @@
 <p align="center">
   <a href="mailto:danhbui.171203@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  </a>  
+  <span style="margin-right: 20px;">danhbui.171203@gmail.com</span>
+  
   <a href="https://www.linkedin.com/in/thanhdanh17">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  </a>  
+  <span style="margin-right: 20px;">linkedin.com/in/thanhdanh17</span>
+  
   <a href="tel:+84989430257">
     <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+  </a>  
+  <span>+84 989 430 257</span>
 </p>
