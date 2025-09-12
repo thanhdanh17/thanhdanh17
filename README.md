@@ -32,13 +32,13 @@
 
 ## 📫 Contact Me  
 <p align="center">
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:danhbui.171203@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/yourlinkedin/">
+  <a href="https://www.linkedin.com/in/thanhdanh17">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="tel:+849xxxxxxxx">
+  <a href="tel:+84989430257">
     <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
