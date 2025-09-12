@@ -34,5 +34,4 @@
 
 - 📧 **Email:** danhbui.171203@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/thanhdanh17](https://www.linkedin.com/in/thanhdanh17)  
-- 📱 **Phone:** +84 989 430 257
 
