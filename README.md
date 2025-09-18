@@ -10,12 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=thanhdanh17&label=Profile%20views&color=0e75b6&style=for-the-badge" />
 </p>
 
-## 🔥 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thanhdanh17&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhdanh17&layout=compact&theme=radical" />
-</p>
-
 ## 📊 Profile Summary
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thanhdanh17&theme=radical" />
