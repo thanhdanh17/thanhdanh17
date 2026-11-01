@@ -1,4 +1,4 @@
-# 🙌 Glad to see you here! I'm Thanh Danh 
+# 🙌 Glad to see you here! I'm  Danh 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=9AE6E6&center=true&vCenter=true&width=600&lines=👋+Welcome+to+my+GitHub!👋;I'm+Bui+Dinh+Thanh+Danh;🤖+AI%2FML+Enthusiast+🤖;🚀+AI+Engineer+🤖" alt="Typing SVG" />
@@ -24,8 +24,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=thanhdanh17&theme=radical&column=6" />
 </p>
 
-## 📫 Contact Me  
-
-- 📧 **Email:** danhbui.171203@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/thanhdanh17](https://www.linkedin.com/in/thanhdanh17)  
 
